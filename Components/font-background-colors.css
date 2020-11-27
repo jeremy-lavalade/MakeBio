@@ -1,0 +1,32 @@
+/*colors and font*/
+.font-vert {color: #7DBE33}
+.font-vertfoncé {color: #185027}
+.font-blanc {color: #FFFFFF}
+.font-gris {color: #847979}
+.font-marronclair {color: #CCA270}
+.font-marronfoncé {color: #8E6E53}
+
+.background-vert {background-color: rgb(125,190,51);}
+.background-vertfoncé {background-color: rgb(24,80,39);}
+.background-blanc {background-color: rgb(246,246,246);}
+.background-gris {background-color: rgb(132,121,121);}
+.background-marronclair {background-color: rgb(204,162,112);}
+.background-marronfoncé {background-color: rgb(142,110,83);}
+
+#font-vert {color: #7DBE33}
+#font-vertfoncé {color: #185027}
+#font-blanc {color: #FFFFFF}
+#font-gris {color: #847979}
+#font-marronclair {color: #CCA270}
+#font-marronfoncé {color: #8E6E53}
+
+#background-vert {background-color: rgb(125,190,51);}
+#background-vertfoncé {background-color: rgb(24,80,39);}
+#background-blanc {background-color: rgb(246,246,246);}
+#background-gris {background-color: rgb(132,121,121);}
+#background-marronclair {background-color: rgb(204,162,112);}
+#background-marronfoncé {background-color: rgb(142,110,83);}
+
+@font-face {
+ font-family: "Makebio";
+ src: url("../../MakeBio/Components/WCManoNegraBoldBta.ttf")}

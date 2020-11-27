@@ -1,0 +1,37 @@
+#img-small{width: 80%}
+
+.logo-small{width: 90px;height: 90px}
+.logo-small2{width: 90px;height: 100px}
+
+.quote-design{background-color: rgb(132,121,121);
+	position: relative;
+	top: 150px;
+	margin-left: 50%;
+	margin-right: 8%;
+	padding: 5px;
+	width: 239px;
+	font-size: auto;
+	border-radius: 3px
+}
+
+.quote-design2{
+	width: 100%;height: auto;
+	border-radius: 40% ;
+	box-shadow: 10px 20px 10px rgba(0,0,0,0.4);
+}
+
+.quote-design3{
+	position: relative;
+	top: -50px;}
+
+.img-container{
+	width: 100%;height: auto
+}
+
+.img-small2{width: 270px;height: 270px;margin : 10px}
+
+.img-flex{display: flex;flex-wrap: wrap;
+	justify-content: center; 
+	align-content: space-around;
+margin-left: 5%;}
+

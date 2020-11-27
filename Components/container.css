@@ -1,0 +1,26 @@
+.container{
+    height: 100vh;
+    color: rgb(246,246,246);
+    background-color: rgba(204,162,112,0.7)
+    position: absolute;
+    left:0px;
+}
+
+
+#container-topmargin{margin-top: 100px;
+  position: absolute;
+left:0px;}
+
+#container2-topmargin{margin-top: 100px;}
+
+.conteneurvidéo
+{
+  width: 65vw; 
+  height: 38vw; 
+}
+
+}
+#element.equilibrage{
+	background-color: red;
+	margin-left: 5% auto;
+}
